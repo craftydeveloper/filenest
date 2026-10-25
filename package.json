@@ -1,0 +1,11 @@
+{
+  "name": "filenest",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A local catalog for file references, links, tags, and notes without uploading the underlying files.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
