@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "file-1",
+      "title": "Architecture notes",
+      "reference": "./docs/architecture.md"
+    },
+    {
+      "id": "file-2",
+      "title": "Public API guide",
+      "reference": "https://example.org/api"
+    }
+  ]
+}
